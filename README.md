@@ -1,3 +1,3 @@
 # DWP-TECH-LAB
-This repository showcases practical implementations of data wrangling with python and machine learning ie, tech lab. It includes techniques for cleaning, preprocessing, and visualizing data, as well as building and evaluating machine learning models. The projects utilize real-world datasets to demonstrate effective data analysis and predictive modeling, making it a resourceful guide for applying Python and machine learning concepts in practice.
+This repository contains the code and resources for a Data Wrangling project and related experiments conducted in TechLab. The project focuses on cleaning, transforming, and analyzing raw data to make it ready for downstream tasks, such as visualization, analysis, or machine learning.
 
